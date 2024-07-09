@@ -11,7 +11,4 @@ Este eBook guia os leitores através da criação e exploração de cidades cybe
 Um tema que sempre me atraiu foi o genêro Cyberpunk, isso se dá pois a possibilidade ilimitada de ideias que, atualmente não temos a capacidade de factualmente dizer que jamais se concretizarão, torna esse tema tão atrativo para uma pessoa curiosa como sou. Portanto, quis fazer um ebook com essa temárica.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+- **[Projeto]**(/projeto/cyberpunk-ebook.odt))
