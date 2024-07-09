@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Metrópoles Cyberpunk: Construindo o Futuro nas Cidades do Amanhã
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este eBook guia os leitores através da criação e exploração de cidades cyberpunk, um subgênero da ficção científica que combina alta tecnologia e uma sociedade distópica. Desde os fundamentos do cyberpunk até os elementos essenciais de arquitetura, tecnologia, cultura e sociedade, cada capítulo oferece insights detalhados e práticos para desenvolver metrópoles futurísticas convincentes. Com exemplos clássicos e modernos, ferramentas criativas e exercícios práticos, os leitores aprenderão a visualizar e construir cenários vibrantes onde conflitos, inovações tecnológicas e questões sociais se entrelaçam de maneira intrigante. Este eBook é essencial para escritores, roteiristas e criadores de conteúdo visual que desejam explorar novos horizontes na ficção cyberpunk.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-**ChatGPT** para criação de todo conteúdo do Ebook
+-**Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Um tema que sempre me atraiu foi o genêro Cyberpunk, isso se dá pois a possibilidade ilimitada de ideias que, atualmente não temos a capacidade de factualmente dizer que jamais se concretizarão, torna esse tema tão atrativo para uma pessoa curiosa como sou. Portanto, quis fazer um ebook com essa temárica.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
